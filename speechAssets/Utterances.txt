@@ -1,0 +1,127 @@
+HelloWorldIntent hello
+HelloWorldIntent say hello
+HelloWorldIntent say hello world
+
+RememberSoIntent Remember that {person} es girlfriend is {so}
+RememberSoIntent Remember that {person} es wife is {so}
+RememberSoIntent Remember that {person} es husband is {so}
+RememberSoIntent Remember that {person} es boyfriend is {so}
+RememberSoIntent Remember that {person} es spouse is {so}
+RememberSoIntent Remember that {person} es friend is {so}
+RememberSoIntent Remember that {person} es girlfriend is {so}
+RememberSoIntent Remember that {person} es wife is named {so}
+RememberSoIntent Remember that {person} es husband is named {so}
+RememberSoIntent Remember that {person} es boyfriend is named {so}
+RememberSoIntent Remember that {person} es spouse is named {so}
+RememberSoIntent Remember that {person} es friend is named {so}
+
+RememberSoIntent {person} es girlfriend is {so}
+RememberSoIntent {person} es wife is {so}
+RememberSoIntent {person} es husband is {so}
+RememberSoIntent {person} es boyfriend is {so}
+RememberSoIntent {person} es spouse is {so}
+RememberSoIntent {person} es friend is {so}
+RememberSoIntent {person} es girlfriend is {so}
+RememberSoIntent {person} es wife is named {so}
+RememberSoIntent {person} es husband is named {so}
+RememberSoIntent {person} es boyfriend is named {so}
+RememberSoIntent {person} es spouse is named {so}
+RememberSoIntent {person} es friend is named {so}
+
+RemindSoIntent What is {person} es girlfriend es name
+RemindSoIntent What is {person} es boyfriend es name
+RemindSoIntent What is {person} es husband es name
+RemindSoIntent What is {person} es wife es name
+RemindSoIntent What is {person} es spouse es name
+RemindSoIntent What is {person} es friend es name
+RemindSoIntent What is the name of {person} es girlfriend
+RemindSoIntent What is {person} es boyfriend es
+RemindSoIntent What is {person} es husband es
+RemindSoIntent What is {person} es wife es
+RemindSoIntent What is {person} es spouse es
+RemindSoIntent What is {person} es friend es
+RemindSoIntent Remind me what is {person} es girlfriend es name
+RemindSoIntent Remind me what is {person} es boyfriend es name
+RemindSoIntent Remind me what is {person} es husband es name
+RemindSoIntent Remind me what is {person} es wife es name
+RemindSoIntent Remind me what is {person} es spouse es name
+RemindSoIntent Remind me what is {person} es friend es name
+RemindSoIntent Remind me what is the name of {person} es girlfriend
+RemindSoIntent Remind me what is {person} es boyfriend
+RemindSoIntent Remind me what is {person} es husband
+RemindSoIntent Remind me what is {person} es wife
+RemindSoIntent Remind me what is {person} es spouse
+RemindSoIntent Remind me what is {person} es friend
+
+RemindSoIntent Who is {person} es boyfriend
+RemindSoIntent Who is {person} es husband
+RemindSoIntent Who is {person} es wife
+RemindSoIntent Who is {person} es spouse
+RemindSoIntent Who is {person} es friend
+
+RemindSoIntent Remind me who is {person} es boyfriend
+RemindSoIntent Remind me who is {person} es husband
+RemindSoIntent Remind me who is {person} es wife
+RemindSoIntent Remind me who is {person} es spouse
+RemindSoIntent Remind me who is {person} es friend
+
+RememberLocationIntent Remember that {person} is from {place}
+RememberLocationIntent {person} is from {place}
+
+RemindLocationIntent Where is {person} from
+RemindLocationIntent Where did {person} grow up
+RemindLocationIntent Where did I meet {person}
+RemindLocationIntent Remind me where {person} is from
+
+RememberDateIntent Remember that I met {person} {date}
+RememberDateIntent Remember that I met {person} on {date}
+RememberDateIntent Remember that {person} and I met {date}
+RememberDateIntent Remember that {person} and I met on {date}
+RememberDateIntent Remember that I was introduced to {person} {date}
+RememberDateIntent Remember that I was introduced to {person} on {date}
+RememberDateIntent I met {person} {date}
+RememberDateIntent {date} I met {person}
+RememberDateIntent {date} I was introduced to {person}
+RememberDateIntent {date} {person} and I met each other
+RememberDateIntent {date} I met {person}
+RememberDateIntent {date} I was introduced to {person}
+RememberDateIntent I met {person} on {date}
+RememberDateIntent {person} and I met {date}
+RememberDateIntent {person} and I met on {date}
+RememberDateIntent I was introduced to {person} {date}
+RememberDateIntent I was introduced to {person} on {date}
+
+RemindDateIntent When did I meet {person}
+RemindDateIntent How long ago did I meet {person}
+RemindDateIntent How long has it been since I met {person}
+RemindDateIntent When were {person} and I introduced
+RemindDateIntent When was I introduced to {person}
+RemindDateIntent How long has it been since {person} and I were introduced
+RemindDateIntent When did {person} and I meet each other
+RemindDateIntent Remind me when did I meet {person}
+RemindDateIntent Remind me how long ago did I meet {person}
+RemindDateIntent Remind me how long has it been since I met {person}
+RemindDateIntent Remind me when were {person} and I introduced
+RemindDateIntent Remind me when was I introduced to {person}
+RemindDateIntent Remind me how long has it been since {person} and I were introduced
+RemindDateIntent Remind me when did {person} and I meet each other
+
+QuitIntent Turn off
+QuitIntent That's all'
+QuitIntent Quit
+QuitIntent Please turn off
+QuitIntent End session
+QuitIntent No more
+QuitIntent That's all I need
+QuitIntent Nothing else
+QuitIntent No more
+QuitIntent Shut up
+QuitIntent Nothing else
+QuitIntent stop
+QuitIntent cancel
+
+DemoIntentOne Angel I have a problem  I love to go to parties but I always forget the names of people whom I have previously met
+
+DemoIntentTwo Ok Angel whats next
+
+DemoIntentThree Thats fantastic Thank you Angel

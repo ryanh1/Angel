@@ -1,0 +1,84 @@
+{
+  "intents": [
+    {
+      "intent": "RemindSoIntent",
+      "slots": [
+        {
+          "name": "person",
+          "type": "AMAZON.US_FIRST_NAME"
+        }
+      ]
+    },
+    {
+      "intent": "RememberSoIntent",
+      "slots": [
+    	{
+      		"name": "person",
+     		"type": "AMAZON.US_FIRST_NAME"
+    	},
+    	{
+      		"name": "so",
+      		"type": "AMAZON.US_FIRST_NAME"
+    	}
+  	  ]
+    },
+    {
+      "intent": "RemindLocationIntent",
+      "slots": [
+        {
+          "name": "person",
+          "type": "AMAZON.US_FIRST_NAME"
+        }
+      ]
+    },
+    {
+      "intent": "RememberLocationIntent",
+      "slots": [
+    	{
+      		"name": "person",
+     		"type": "AMAZON.US_FIRST_NAME"
+    	},
+    	{
+      		"name": "place",
+      		"type": "AMAZON.US_STATE"
+    	}
+  	  ]
+    },
+    {
+      "intent": "RememberDateIntent",
+      "slots": [
+    	{
+      		"name": "person",
+     		"type": "AMAZON.US_FIRST_NAME"
+        },
+    	{
+      		"name": "date",
+      		"type": "AMAZON.DATE"
+    	}
+  	  ]
+    },
+    {
+      "intent": "RemindDateIntent",
+      "slots": [
+        {
+          "name": "person",
+          "type": "AMAZON.US_FIRST_NAME"
+        }
+      ]
+    },
+    {
+      "intent": "DemoIntentOne"
+    },
+    {
+      "intent": "DemoIntentTwo"
+    },
+    {
+      "intent": "DemoIntentThree"
+    },
+
+    {
+      "intent": "QuitIntent"
+    }
+
+  ]
+}
